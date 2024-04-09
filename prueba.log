@@ -1,0 +1,17 @@
+# = Caracter
+include = Identificador
+< = OperadorRelacional
+stdio = Identificador
+. = Caracter
+h = Identificador
+> = OperadorRelacional
+# = Caracter
+include = Identificador
+< = OperadorRelacional
+math = Identificador
+. = Caracter
+h = Identificador
+> = OperadorRelacional
+int = tipoDatos
+altura = Identificador
+Error de Sintaxis: Se espera un ; en la linea 4
